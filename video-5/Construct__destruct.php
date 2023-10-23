@@ -1,7 +1,5 @@
 <?php
 
-use Persion as GlobalPersion;
-
 class Persion
 {
     private $conn;
